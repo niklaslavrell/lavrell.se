@@ -81,5 +81,6 @@ module.exports = {
     },
     `gatsby-plugin-robots-txt`,
     `gatsby-plugin-sitemap`,
+    `gatsby-plugin-netlify`, // make sure to put last in the array
   ],
 }
