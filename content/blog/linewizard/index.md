@@ -14,7 +14,10 @@ This is what came out of it 😃👇
 Go try it out at [**linewizard.club**](https://www.linewizard.club) and follow [**@linewizardclub**](https://www.instagram.com/linewizardclub/) on Instagram for some really clean line breaks!
 
 <div style="text-align:center">
-    <img alt="The Line Wizard" src ="./wizard-fade-purple-300.gif" />
-    <br />
-    <em>The Line Wizard 🧙‍</em>
+  <figure>
+    <img src="./wizard-fade-purple-300.gif" alt="The Line Wizard" style="margin-bottom:0" />
+    <figcaption>
+      <small>The Line Wizard 🧙‍</small>
+    </figcaption>
+  </figure>
 </div>

@@ -78,19 +78,25 @@ class NowPage extends React.Component {
                   - articles and talks that helps me grow
                 </p>
 
-                <Image
-                  fixed={image}
-                  alt="Nice working spot in Ho Chi Minh City, Vietnam 🇻🇳"
-                  style={{
-                    marginRight: rhythm(1 / 2),
-                    marginBottom: 0,
-                    minWidth: '300',
-                    borderRadius: '1%',
-                  }}
-                />
-                <p>
-                  <em>Nice working spot in Ho Chi Minh City, Vietnam 🇻🇳</em>
-                </p>
+                <div style={{ textAlign: 'center' }}>
+                  <figure>
+                    <Image
+                      fixed={image}
+                      alt="Nice working spot in Ho Chi Minh City, Vietnam"
+                      style={{
+                        marginRight: rhythm(1 / 2),
+                        marginBottom: 0,
+                        minWidth: '300',
+                        borderRadius: '1%',
+                      }}
+                    />
+                    <figcaption>
+                      <small>
+                        Nice working spot in Ho Chi Minh City, Vietnam 🇻🇳
+                      </small>
+                    </figcaption>
+                  </figure>
+                </div>
                 <hr
                   style={{
                     marginBottom: rhythm(1),

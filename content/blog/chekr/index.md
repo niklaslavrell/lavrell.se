@@ -14,7 +14,10 @@ This way I don't have to waste time by checking my stocks and I save myself of e
 Want more time and less emotional stress? [Sign up now at chekr.app](https://www.chekr.app) and add your own stocks!
 
 <div style="text-align:center">
-    <img alt="Chekr" src ="./robot.png" />
-    <br />
-    <em>Chekr 🤖</em>
+  <figure>
+    <img src="./robot.png" alt="Chekr" />
+    <figcaption>
+      <small>Chekr 🤖</small>
+    </figcaption>
+  </figure>
 </div>
