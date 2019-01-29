@@ -10,7 +10,6 @@ module.exports = {
       instagram: 'niklaslavrell',
       linkedin: 'niklaslavrell',
       github: 'niklaslavrell',
-      makerrocks: 'niklaslavrell',
     },
   },
   plugins: [

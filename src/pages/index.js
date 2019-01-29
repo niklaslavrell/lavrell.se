@@ -39,9 +39,6 @@ class BlogIndex extends React.Component {
           <ListLink to={`https://www.linkedin.com/in/${social.linkedin}`}>
             LinkedIn
           </ListLink>
-          <ListLink to={`https://maker.rocks/${social.makerrocks}`}>
-            Maker
-          </ListLink>
           <ListLink to={`mailto:${social.email}`}>Mail</ListLink>
         </ul>
 

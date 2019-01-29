@@ -41,7 +41,14 @@ class NowPage extends React.Component {
                 <p>Projects currently in the works:</p>
 
                 <p>
-                  ‍‍💁 ‍
+                  ‍‍📸
+                  <strong>
+                    <a href="https://www.focolio.com">Focolio</a>
+                  </strong>{' '}
+                  - site to find photographers
+                </p>
+                <p>
+                  ‍‍💁‍
                   <strong>
                     <a href="https://www.letsborrowit.com">Let's Borrowit</a>
                   </strong>{' '}
