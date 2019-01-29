@@ -76,7 +76,6 @@ export const pageQuery = graphql`
           twitter
           instagram
           linkedin
-          makerrocks
           email
         }
       }
