@@ -4,6 +4,7 @@ import githubTheme from 'typography-theme-github'
 githubTheme.overrideThemeStyles = () => ({
   a: {
     color: 'rgba(0, 0, 0, 0.8)',
+    fontWeight: 'bold',
   },
 })
 
