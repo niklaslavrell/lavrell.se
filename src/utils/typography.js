@@ -1,6 +1,12 @@
 import Typography from 'typography'
 import githubTheme from 'typography-theme-github'
 
+githubTheme.overrideThemeStyles = () => ({
+  a: {
+    color: 'rgba(0, 0, 0, 0.8)',
+  },
+})
+
 const typography = new Typography(githubTheme)
 
 // Hot reload typography in development.
