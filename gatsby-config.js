@@ -10,6 +10,7 @@ module.exports = {
       instagram: 'niklaslavrell',
       linkedin: 'niklaslavrell',
       github: 'niklaslavrell',
+      nomadlist: 'niklaslavrell',
     },
   },
   plugins: [

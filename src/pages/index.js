@@ -39,6 +39,9 @@ class BlogIndex extends React.Component {
           <ListLink to={`https://www.linkedin.com/in/${social.linkedin}`}>
             LinkedIn
           </ListLink>
+          <ListLink to={`https://www.nomadlist.com/@${social.nomadlist}`}>
+            NomadList
+          </ListLink>
           <ListLink to={`mailto:${social.email}`}>Mail</ListLink>
         </ul>
 
@@ -77,6 +80,7 @@ export const pageQuery = graphql`
           instagram
           linkedin
           email
+          nomadlist
         }
       }
     }
