@@ -3,7 +3,7 @@ title: Two Weeks in Chiang Mai, Thailand
 date: '2018-12-01T12:00:00.000Z'
 ---
 
-Hanna decided to take a [small detour from our Asia trip](http://www.hannasoderquist.se/blog/ett-halvt-varv-runt-jorden), so I decided to go and visit Chiang Mai in Thailand for two weeks. Chiang Mai is usually at the [top of NomadList](https://nomadlist.com/) (a website listing good cities for digital nomads; [check my profile to see where I am at the moment](https://nomadlist.com/@niklaslavrell)), so I figured it was worth a visit.
+Hanna decided to take a [small detour from our Asia trip](http://www.hannasoderquist.se/blog/ett-halvt-varv-runt-jorden), so I decided to go and visit Chiang Mai in Thailand for two weeks. Chiang Mai is usually at the [top of Nomad List](https://nomadlist.com/) (a website listing good cities for digital nomads; [check my profile to see where I am at the moment](https://nomadlist.com/@niklaslavrell)), so I figured it was worth a visit.
 
 I stayed at a hostel called [In the City Hostel](https://goo.gl/maps/VYH8db9rnCG2), located centrally in the northwest corner of the Old City. I had a bed in a dormitory, free access to a coworking space (which mainly was reserved for people staying at the hostel), free water, coffee, fruit, laundry, and one meal a day. Very convenient overall and with the cost being only 300 thai bath (~82 SEK, ~\$9,3) per night, it was a very good deal.
 

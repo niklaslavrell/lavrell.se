@@ -40,7 +40,7 @@ class BlogIndex extends React.Component {
             LinkedIn
           </ListLink>
           <ListLink to={`https://www.nomadlist.com/@${social.nomadlist}`}>
-            NomadList
+            Nomad List
           </ListLink>
           <ListLink to={`mailto:${social.email}`}>Mail</ListLink>
         </ul>
