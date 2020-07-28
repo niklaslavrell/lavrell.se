@@ -29,47 +29,46 @@ class NowPage extends React.Component {
                     marginTop: rhythm(-0.5),
                   }}
                 >
-                  Last updated: December 15, 2018
+                  Last updated: July 28, 2020
                 </p>
                 <p>
-                  I am currently traveling Souteast Asia 🌏 together with{' '}
-                  <a href="https://www.hannasoderquist.se/">Hanna</a>. We are
-                  spending our days working on our own product ideas and trying
-                  to ship some funny products.
+                  Focusing on shipping a new product 👉{' '}
+                  <a href="https://www.grapic.co">Grapic</a> - a old-new way to
+                  remote whiteboard with your colleagues, check it out!
                 </p>
 
-                <p>Projects currently in the works:</p>
+                <p>Other projects also in the works:</p>
 
                 <p>
-                  ‍‍📸
+                  ‍‍📸{' '}
                   <strong>
                     <a href="https://www.focolio.com">Focolio</a>
                   </strong>{' '}
                   - site to find photographers
                 </p>
                 <p>
-                  ‍‍💁‍
+                  ‍‍💁‍{' '}
                   <strong>
                     <a href="https://www.letsborrowit.com">Let's Borrowit</a>
                   </strong>{' '}
                   - app to make people consume less and borrow more
                 </p>
                 <p>
-                  🤖
+                  🤖{' '}
                   <strong>
                     <a href="https://www.chekr.app">Chekr</a>
                   </strong>{' '}
                   - bot that watch my stocks, so I can spend time on other stuff
                 </p>
                 <p>
-                  🧙‍
+                  🧙‍{' '}
                   <strong>
                     <a href="https://www.linewizard.club">Line Wizard</a>
                   </strong>{' '}
                   - app that makes clean line breaks on Instagram posts
                 </p>
                 <p>
-                  🚀
+                  🚀{' '}
                   <strong>
                     <a href="https://www.swedishtechmakers.com">
                       Swedish Tech Makers
@@ -78,9 +77,11 @@ class NowPage extends React.Component {
                   - community with people that want to ship
                 </p>
                 <p>
-                  🌱
+                  🌱{' '}
                   <strong>
-                    <a href="https://www.thehappylist.io">The Happy List</a>
+                    <a href="https://thehappylist.wixsite.com/thehappylist">
+                      The Happy List
+                    </a>
                   </strong>{' '}
                   - articles and talks that helps me grow
                 </p>
