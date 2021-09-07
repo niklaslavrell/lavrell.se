@@ -6,7 +6,7 @@
   "homepage": "https://www.lavrell.se",
   "private": true,
   "engines": {
-    "node": "12"
+    "node": "10"
   },
   "dependencies": {
     "gatsby": "^2.0.19",
